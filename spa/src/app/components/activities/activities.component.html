@@ -1,0 +1,19 @@
+<div class="w-75 mx-auto">
+    <app-buttons (addActivity)=addActivity($event) (deleteActivities)=deleteActivities()></app-buttons>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">activity</th>
+                <th scope="col">type</th>
+                <th scope="col">participants</th>
+                <th scope="col">price</th>
+                <th scope="col">link</th>
+                <th scope="col">key</th>
+                <th scope="col">accessibility</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr app-activity *ngFor="let activity of activities" [activity]="activity"></tr>
+        </tbody>
+    </table>
+</div>
