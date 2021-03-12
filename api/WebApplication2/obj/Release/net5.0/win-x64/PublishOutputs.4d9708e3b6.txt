@@ -1,0 +1,9 @@
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\appsettings.Development.json
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\appsettings.json
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\WebApplication2.pdb
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\clrjit.dll
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\coreclr.dll
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\M048369\source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\win-x64\publish\WebApplication2.exe
