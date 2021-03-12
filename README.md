@@ -11,3 +11,5 @@ I've used Bootstrap as the UI library. It isn't the nicest looking UI library, b
 
 ## Regarding the api
 For the CORS policy, I've allowed all origins/methods/headers. In a real-world application, you'd ideally lock it down to specific origins/methods/headers.
+
+The spa is communicating with the api over HTTP. In a real-world application, you'd communicate over HTTPS.
